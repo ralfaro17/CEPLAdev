@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-church-interior",
+      "description": "The serene interior of a traditional church, with light streaming through stained glass windows.",
+      "imageUrl": "https://images.unsplash.com/photo-1569759276108-31b8e7e43e7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaHVyY2glMjBpbnRlcmlvcnxlbnwwfHx8fDE3NjYxNzgwOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "church interior"
+    },
+    {
+      "id": "news-1",
+      "description": "Anuncio importante sobre la próxima Vigilia Pascual.",
+      "imageUrl": "https://images.unsplash.com/photo-1732655398369-24cff6302efb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2h1cmNoJTIwY2FuZGxlfGVufDB8fHx8MTc2NjE4MDMzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "church candle"
+    },
+    {
+      "id": "news-2",
+      "description": "¡Únete a nuestro nuevo grupo de coro! Los ensayos son todos los jueves.",
+      "imageUrl": "https://images.unsplash.com/photo-1714252562781-e13836d95d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtdXNpYyUyMG5vdGVzfGVufDB8fHx8MTc2NjE1OTY3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "music notes"
+    },
+    {
+      "id": "news-3",
+      "description": "Las inscripciones para la formación de monaguillos ya están abiertas.",
+      "imageUrl": "https://images.unsplash.com/photo-1611483710387-ef44d3e39937?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaHVyY2glMjBhbHRhcnxlbnwwfHx8fDE3NjYxODAzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "church altar"
+    },
+    {
+      "id": "avatar-1",
+      "description": "Avatar for a ministry coordinator.",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZXJzb24lMjBmYWNlfGVufDB8fHx8MTc2NjE0Mzk0NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person face"
+    }
+  ]
 }
